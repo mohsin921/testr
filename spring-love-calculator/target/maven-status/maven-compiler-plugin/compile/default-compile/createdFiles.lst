@@ -1,0 +1,5 @@
+com\seleniumexpress\lc\controllers\TestController.class
+com\seleniumexpress\lc\controllers\LCAppController.class
+com\seleniumexpress\lc\config\LoveCalculatorAppInitializer.class
+com\seleniumexpress\lc\config\LCAppInitilizer.class
+com\seleniumexpress\lc\config\LoveCalculatorAppConfig.class
