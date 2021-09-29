@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Calculator</title>
+<title>Calculator test</title>
 </head>
 <body>
 	<h1>Result Page</h1>

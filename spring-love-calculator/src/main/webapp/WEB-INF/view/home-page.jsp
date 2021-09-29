@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Love Calculator</title>
+<title>Calculator</title>
 </head>
 <body>
 
