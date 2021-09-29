@@ -9,7 +9,7 @@
 <body>
 
 	<div align="center">
-		<h1>Calculator</h1>
+		<h1>Calculator from thinkpad</h1>
 		<hr />
 		<form action="process-homepage" method="get">
 			<p>
