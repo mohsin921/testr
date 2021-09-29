@@ -9,7 +9,7 @@
 <body>
 
 	<div align="center">
-		<h1>Love Calculator</h1>
+		<h1>Calculator</h1>
 		<hr />
 		<form action="process-homepage" method="get">
 			<p>

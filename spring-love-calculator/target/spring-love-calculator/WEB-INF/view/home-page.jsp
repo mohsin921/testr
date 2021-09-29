@@ -10,13 +10,15 @@
 
 	<div align="center">
 		<h1>Love Calculator</h1>
-
+		<hr />
 		<form action="process-homepage" method="get">
 			<p>
-				<label for="yn">Your Name:</label> <input type="text" id="yn" />
+				<label for="yn">Your Name:</label> <input type="text" id="yn"
+					name="userName" />
 			</p>
 			<p>
-				<label for="cn">Crush Name:</label> <input type="text" id="cn" />
+				<label for="cn">Crush Name:</label> <input type="text" id="cn"
+					name="crushName" />
 			</p>
 
 			<input type="submit" value="calculate" />
