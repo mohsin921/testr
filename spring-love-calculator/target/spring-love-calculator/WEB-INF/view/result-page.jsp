@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Test Calculator</title>
 </head>
 <body>
 	<h1>Result Page</h1>
-	<p>User name: ${userName}</p>
-	<p>Crush name: ${crushName}</p>
+	<p>User name: ${userInfo.userName}</p>
+	<p>Crush name: ${userInfo.crushName}</p>
 </body>
 </html>

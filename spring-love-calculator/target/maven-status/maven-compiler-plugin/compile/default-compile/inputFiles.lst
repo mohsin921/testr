@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-C:\Users\Think-paD\git\love calculator\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LoveCalculatorAppConfig.java
-C:\Users\Think-paD\git\love calculator\spring-love-calculator\src\main\java\com\seleniumexpress\lc\controllers\LCAppController.java
-C:\Users\Think-paD\git\love calculator\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LCAppInitilizer.java
-C:\Users\Think-paD\git\love calculator\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LoveCalculatorAppInitializer.java
-C:\Users\Think-paD\git\love calculator\spring-love-calculator\src\main\java\com\seleniumexpress\lc\controllers\TestController.java
-=======
 C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LoveCalculatorAppConfig.java
 C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LoveCalculatorAppInitializer.java
+C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\api\RegisterUserDTO.java
+C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\controllers\RegistrationController.java
+C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\api\UserInfoDTO.java
 C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\config\LCAppInitilizer.java
 C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\controllers\TestController.java
 C:\Users\Mohsin Ali\git\testr\spring-love-calculator\src\main\java\com\seleniumexpress\lc\controllers\LCAppController.java
->>>>>>> branch 'master' of https://github.com/mohsin921/testr.git
